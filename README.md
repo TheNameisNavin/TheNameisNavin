@@ -1,12 +1,12 @@
 Hi, I'm Navin! 👋
 
 🚀 About Me
-I'm a passionate **Technical Implementation Manager and Software Developer with expertise in web development, engineering projects, and software solutions. 
+I'm a passionate Technical Implementation Manager and Software Developer with expertise in web development, engineering projects, and software solutions. 
 I love building efficient, scalable, and innovative digital solutions.
 
-- 💻 Experienced in **Python, JavaScript, HTML/CSS, and more.
-- 🔧 Skilled in technical implementation, project management, and software engineering**.
-- 🎯 Strong focus on problem-solving and optimization**.
+- 💻 Experienced in Python, JavaScript, HTML/CSS, and more.
+- 🔧 Skilled in technical implementation, project management, and software engineering.
+- 🎯 Strong focus on problem-solving and optimization.
 - 🌍 Actively exploring emerging technologies and open-source contributions.
 
 🛠️ Tech Stack
