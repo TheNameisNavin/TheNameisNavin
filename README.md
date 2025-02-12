@@ -16,7 +16,7 @@ I love building efficient, scalable, and innovative digital solutions.
 - DevOps & Cloud: GitHub Pages, AWS, Docker
 - Other: API Development, Data Structures & Algorithms
 
-Projects on my https://thenameisnavin.github.io/ ! 🚀
+Projects on my https://github.com/TheNameisNavin ! 🚀
 
 📬 Contact Me
 💼 LinkedIn: https://www.linkedin.com/in/thenameisnavin/
