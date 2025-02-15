@@ -18,9 +18,12 @@ I love building efficient, scalable, and innovative digital solutions.
 
 Projects on my https://github.com/TheNameisNavin ! 🚀
 
-📬 Contact Me
+📬 Contact Me:
+
 💼 LinkedIn: https://www.linkedin.com/in/thenameisnavin/
+
 📧 Email: (mailto:navinkumarspm@gmail.com)  
+
 🌐 Portfolio: https://thenameisnavin.github.io/
 
 Let's connect and build something amazing together! 🚀
