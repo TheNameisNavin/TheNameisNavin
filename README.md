@@ -1,7 +1,7 @@
 Hi, I'm Navin! 👋
 
 🚀 About Me
-I'm a passionate Technical Implementation Manager and Software Developer with expertise in web development, engineering projects, and software solutions. 
+I'm a passionate Technical Support Engineer and Software Developer with expertise in web development, engineering projects, and software solutions. 
 I love building efficient, scalable, and innovative digital solutions.
 
 - 💻 Experienced in Python, JavaScript, HTML/CSS, and more.
