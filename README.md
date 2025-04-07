@@ -6,16 +6,6 @@ My expertise lies in crafting robust front-end interfaces with React and JavaScr
 
 Whether it's debugging REST APIs, optimizing database queries, implementing CI/CD pipelines, or leading customer onboarding and post-sales support, I bring a systems-thinking mindset and a problem-solving approach to everything I do. I thrive in collaborative environments where technology and user experience intersect—and I’m constantly seeking ways to innovate, automate, and improve.
 
-Core Competencies:
-• Full-Stack Development (React, Node.js, Django, Flask)
-• Technical Support & Post-Sales Engineering
-• API Integration & Troubleshooting
-• Client Communication & Onboarding
-• DevOps & Cloud Infrastructure (Docker, AWS)
-• Database Management (MySQL, PostgreSQL, Firebase)
-• Incident Management & Root Cause Analysis
-• Agile Collaboration with Product & Engineering Teams
-
 Projects on my https://github.com/TheNameisNavin ! 🚀
 
 📬 Contact Me:
