@@ -1,20 +1,20 @@
 Hi, I'm Navin! 👋
 
-🚀 About Me
-I'm a passionate Technical Support Engineer and Software Developer with expertise in web development, engineering projects, and software solutions. 
-I love building efficient, scalable, and innovative digital solutions.
+I’m a dynamic and versatile professional with a unique blend of skills spanning full-stack web development, client-facing technical support, and cross-functional collaboration. With hands-on experience in building scalable web applications and delivering high-quality technical assistance to global clients, I operate comfortably across both engineering and customer success environments.
 
-- 💻 Experienced in Python, JavaScript, HTML/CSS, and more.
-- 🔧 Skilled in technical implementation, project management, and software engineering.
-- 🎯 Strong focus on problem-solving and optimization.
-- 🌍 Actively exploring emerging technologies and open-source contributions.
+My expertise lies in crafting robust front-end interfaces with React and JavaScript, architecting server-side logic with Node.js and Python frameworks like Django and Flask, and integrating APIs and databases to deliver complete end-to-end solutions. I'm equally proficient in diagnosing complex technical issues, managing incident lifecycles, and working alongside engineering and DevOps teams to ensure timely resolution and platform stability.
 
-🛠️ Tech Stack
-- Programming Languages: Python, JavaScript, HTML, CSS
-- Frameworks & Tools: React, Node.js, Django, Flask
-- Databases: MySQL, PostgreSQL, Firebase
-- DevOps & Cloud: GitHub Pages, AWS, Docker
-- Other: API Development, Data Structures & Algorithms
+Whether it's debugging REST APIs, optimizing database queries, implementing CI/CD pipelines, or leading customer onboarding and post-sales support, I bring a systems-thinking mindset and a problem-solving approach to everything I do. I thrive in collaborative environments where technology and user experience intersect—and I’m constantly seeking ways to innovate, automate, and improve.
+
+Core Competencies:
+• Full-Stack Development (React, Node.js, Django, Flask)
+• Technical Support & Post-Sales Engineering
+• API Integration & Troubleshooting
+• Client Communication & Onboarding
+• DevOps & Cloud Infrastructure (Docker, AWS)
+• Database Management (MySQL, PostgreSQL, Firebase)
+• Incident Management & Root Cause Analysis
+• Agile Collaboration with Product & Engineering Teams
 
 Projects on my https://github.com/TheNameisNavin ! 🚀
 
