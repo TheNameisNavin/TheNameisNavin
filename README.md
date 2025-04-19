@@ -1,4 +1,3 @@
-Hi, I'm Navin! 👋
 
 I’m a dynamic and versatile professional with a unique blend of skills spanning full-stack web development, client-facing technical support, and cross-functional collaboration. With hands-on experience in building scalable web applications and delivering high-quality technical assistance to global clients, I operate comfortably across both engineering and customer success environments.
 
